@@ -1,1 +1,1 @@
-hello,today i learn about react-router in react.js<br> in this mini project of learning react-router <br> in this project i used <br> tailwind css,javascript,react-router and some custom components from Devui.io
+hello,today i learn about react-router in react.js<br> in this mini project for learning react-router <br>  i used <br> tailwind css<br>javascript<br>react-router <br> and some custom components from Devui.io
